@@ -56,9 +56,9 @@ import java.util.List;
             fragmentList.add(new BlankFragment3());
            // fragmentList.add(new BlankFragment4());
 
-           fragmentTitle.add("微信");
-            fragmentTitle.add("通讯录");
-            fragmentTitle.add("发现");
+           fragmentTitle.add("首页");
+            fragmentTitle.add("测试1");
+            fragmentTitle.add("测试2");
             //fragmentTitle.add("我");
 
             if (Build.VERSION.SDK_INT >= 21) {
