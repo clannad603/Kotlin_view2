@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<item
+    android:id="@+id/backup"
+    android:icon="@drawable/er"
+    android:title="Apple"
+    app:showAsAction="always"
+    />
+<item
+    android:id="@+id/rely"
+    android:icon="@drawable/ic_back_register"
+    android:title="Apple"
+    app:showAsAction="ifRoom"/>
+   <item
+    android:id="@+id/reduce"
+    android:icon="@drawable/liu"
+    android:title="Apple"
+       app:showAsAction="never"/>
+</menu>
